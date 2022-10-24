@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CursorHW19/static/css/main.4bb16ff4.css",
+    "main.js": "/CursorHW19/static/js/main.ced4bd8c.js",
+    "index.html": "/CursorHW19/index.html",
+    "main.4bb16ff4.css.map": "/CursorHW19/static/css/main.4bb16ff4.css.map",
+    "main.ced4bd8c.js.map": "/CursorHW19/static/js/main.ced4bd8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb16ff4.css",
+    "static/js/main.ced4bd8c.js"
+  ]
+}
